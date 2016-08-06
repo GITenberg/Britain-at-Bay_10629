@@ -1,0 +1,36 @@
+_repo: Britain-at-Bay_10629
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wilkinson, Spenser
+    alias: Wilkinson, Henry Spenser
+    birthdate: 1853
+    deathdate: 1937
+    gutenberg_agent_id: '3607'
+    url: http://www.gutenberg.org/2009/agents/3607
+    wikipedia: http://en.wikipedia.org/wiki/Spenser_Wilkinson
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10629'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'UA'
+- !lcsh 'Great Britain -- Defenses'
+- !lcsh 'War'
+- !lcsh 'Great Britain -- Foreign relations'
+- GITenberg
+tableOfContents: The nation and the parties -- Defeat -- Force and right -- Arbitration
+  and disarmament -- The nationalisation of war -- The balance of power -- The rise
+  of Germany -- Nationhood neglected -- New conditions -- Dynamics, the question of
+  might -- Policy, the question of right -- The nation -- The effect of the nationalisation
+  of war upon leadership -- The needs of the navy -- England's military problem --
+  Two systems contrasted -- A national army -- The cost -- One army not two -- The
+  transition -- The principles on which armies are raised -- The chain of duty.
+title: Britain at Bay
+url: http://www.gutenberg.org/ebooks/10629
